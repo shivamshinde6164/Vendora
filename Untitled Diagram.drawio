@@ -25,6 +25,9 @@
         <mxCell id="k7PWy4P7F-KXpjFMV805-3" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="210" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="k7PWy4P7F-KXpjFMV805-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k7PWy4P7F-KXpjFMV805-4" target="k7PWy4P7F-KXpjFMV805-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k7PWy4P7F-KXpjFMV805-4" value="New User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="210" width="90" height="40" as="geometry" />
         </mxCell>
@@ -33,6 +36,9 @@
         </mxCell>
         <mxCell id="k7PWy4P7F-KXpjFMV805-9" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="200" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7PWy4P7F-KXpjFMV805-10" value="Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="300" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
