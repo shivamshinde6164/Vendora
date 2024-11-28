@@ -40,6 +40,9 @@
         <mxCell id="k7PWy4P7F-KXpjFMV805-10" value="Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="300" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="k7PWy4P7F-KXpjFMV805-12" value="Role-Based Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
